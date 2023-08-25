@@ -6,13 +6,14 @@
     margin-top: 3rem;
     gap: 0.5rem;
 }
-.cube{
+.circle{
     box-shadow: 30px 10px 15px -3px rgba(0,0,0,0.1);
     width: 9%;
     display: flex;
     align-items: center;
     justify-content: center;
     aspect-ratio: 1;
+    border-radius: 50%;
 }
 body{
     background-color: lightblue;
